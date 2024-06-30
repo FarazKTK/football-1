@@ -1,0 +1,97 @@
+@media screen and (max-width: 767px){
+    .navbar{
+        position: static;
+        text-align: center;
+    }
+    .slider_text h1{
+        font-size: 35px;
+    }
+    .slider_text .button{
+        padding: 10px 12px;
+    }
+    .slider_text .button1{
+        padding: 10px 12px;
+    }
+    #image1{
+        height: 500px;
+    }
+    #image2{
+        height: 500px;
+    }
+    #image3{
+        height: 500px;
+    }
+    #image4{
+        height: 500px;
+    }
+    #image5{
+        height: 500px;
+    }
+    #image6{
+        height: 500px;
+    }
+    .image7{
+        margin-top: 15px;
+    }
+    .image_side_text{
+        margin-top: 15px;
+    }
+    .image_side_text h2{
+        text-align: center;
+    }
+    .image_side_text p{
+        text-align: center;
+    }
+    .image_box img{
+        min-height: 360px;
+    }
+    .section_3_text h1{
+        font-size: 30px;
+    }
+    .section_5_text{
+        text-align: center;
+    }
+    .section_5_text h5{
+        margin-right: 5px;
+    }
+    .section_5_text .button2{
+        padding: 8px;
+    }
+    .section_5_text .button3{
+        padding: 8px;
+    }
+    .section_5_text_image{
+        margin-top: 15px;
+    }
+    .card-body{
+        text-align: center;
+    }
+    .section_7_text{
+        text-align: center;
+    }
+    .section_8_text{
+        margin-bottom: 10px;
+    }
+    .section_8_text{
+        text-align: center;
+    }
+    .image8{
+        text-align: center;
+    }
+    .text_hover{
+        width: 100%;
+        height: 100%;
+    }
+    .star_main_box{
+        margin-bottom: 10px;
+    }
+    .footer-1{
+        text-align: center;
+    }
+    .footer-2{
+        text-align: center;
+    }
+    .footer-2 h5{
+        display: inline-block;
+    }
+}
